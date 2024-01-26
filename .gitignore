@@ -1,1 +1,2 @@
-/backend/target
+actix-web-server/target
+.DS_Store
