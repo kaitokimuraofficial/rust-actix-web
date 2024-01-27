@@ -1,2 +1,3 @@
 actix-web-server/target
 .DS_Store
+.vscode
